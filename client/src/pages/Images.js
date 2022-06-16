@@ -24,6 +24,9 @@ const Images = () => {
 
   return (
     <div>
+      <Center className="text" color="white" mt="1rem">
+        Please click or tap on the Image below to cycle through the collection.
+      </Center>
       {loading ? (
         <div>Loading...</div>
       ) : (

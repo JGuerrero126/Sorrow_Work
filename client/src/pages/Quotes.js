@@ -22,6 +22,10 @@ const Quotes = () => {
 
   return (
     <Box minHeight="100vh">
+      <Center className="text" color="white" mt="1rem" mb="4rem">
+        Please click or tap on the Quote Box below to cycle through the
+        collection.
+      </Center>
       <Center>
         <Box
           bg="black"
