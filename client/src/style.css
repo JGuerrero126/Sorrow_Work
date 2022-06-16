@@ -1,0 +1,12 @@
+#root {
+  background-color: rgb(27, 27, 27);
+}
+
+.head {
+  font-family: "Joan", serif;
+}
+
+.text {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: bold;
+}
