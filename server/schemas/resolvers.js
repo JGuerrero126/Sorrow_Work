@@ -3,8 +3,6 @@ const resolvers = {
   Query: {
     quotes: async () => {
       const quoteData = await Quote.find();
-      // const imageData = await Image.find();
-      // const allData = quoteData.concat(imageData);
       return quoteData;
     },
     images: async () => {

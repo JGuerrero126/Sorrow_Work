@@ -8,9 +8,9 @@ export const QUERY_IMAGES = gql`
   }
 `;
 
-export const QUERY_QUOTE = gql`
-  query quote {
-    quote {
+export const QUERY_QUOTES = gql`
+  query quotes {
+    quotes {
       author
       quotetext
       source
