@@ -5,6 +5,10 @@ const imageSchema = new Schema({
     type: String,
     required: true,
   },
+  artist: {
+    type: String,
+    required: true,
+  },
 });
 
 const Image = model("image", imageSchema);

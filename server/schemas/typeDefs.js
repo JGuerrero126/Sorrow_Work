@@ -3,6 +3,7 @@ const { gql } = require("apollo-server-express");
 const typeDefs = gql`
   type Image {
     imageURL: String
+    artist: String
   }
   type Quote {
     author: String
@@ -11,6 +12,7 @@ const typeDefs = gql`
   }
   input imageInput {
     imageURL: String!
+    artist: String!
   }
   input quoteInput {
     author: String!

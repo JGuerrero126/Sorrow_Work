@@ -1,6 +1,6 @@
 import { useQuery } from "@apollo/client";
 import { Box, Center } from "@chakra-ui/react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { QUERY_QUOTES } from "../utils/queries";
 
 const Quotes = () => {
@@ -19,6 +19,10 @@ const Quotes = () => {
     }
     await setQSrc(0);
   };
+
+  // useEffect(() => {
+  //   console.log(quotesList);
+  // }, [quotesList]);
 
   return (
     <Box minHeight="100vh">

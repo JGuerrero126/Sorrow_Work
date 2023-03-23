@@ -13,9 +13,10 @@ import Footer from "./components/Footer";
 import Images from "./pages/Images";
 import Quotes from "./pages/Quotes";
 import { ChakraProvider } from "@chakra-ui/react";
+const PORT = process.env.PORT || 3001;
 
 const httpLink = createHttpLink({
-  uri: "/graphql",
+  uri: "http://localhost:" + PORT + "/graphql",
 });
 
 const client = new ApolloClient({

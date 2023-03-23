@@ -1,29 +1,38 @@
 [
   {
-    "imageURL": "https://i0.wp.com/weirditaly.com/wp-content/uploads/2014/04/inferno-1.jpg?resize=740%2C908&ssl=1"
+    "imageURL": "https://i0.wp.com/weirditaly.com/wp-content/uploads/2014/04/inferno-1.jpg?resize=740%2C908&ssl=1",
+    "artist": "Gustave Doré"
   },
   {
-    "imageURL": "https://dxewmvd5ovjsu.cloudfront.net/media/death-art/vorobiev-death-art.jpg"
+    "imageURL": "https://dxewmvd5ovjsu.cloudfront.net/media/death-art/vorobiev-death-art.jpg",
+    "artist": "Maxim Vorobiev"
   },
   {
-    "imageURL": "https://artpassions.net/galleries/dore/raven/raven25_tempest.jpg"
+    "imageURL": "https://artpassions.net/galleries/dore/raven/raven25_tempest.jpg",
+    "artist": "Gustave Doré"
   },
   {
-    "imageURL": "https://images.fineartamerica.com/images-medium-large-5/embryo-sebastian-alexander-stamatis.jpg"
+    "imageURL": "https://images.fineartamerica.com/images-medium-large-5/embryo-sebastian-alexander-stamatis.jpg",
+    "artist": "Sebastian-alexander Stamatis"
   },
   {
-    "imageURL": "https://images.saatchiart.com/saatchi/1326099/art/6972789/6042125-CERXZAJI-7.jpg"
+    "imageURL": "https://images.saatchiart.com/saatchi/1326099/art/6972789/6042125-CERXZAJI-7.jpg",
+    "artist": "Corinne Gegot"
   },
   {
-    "imageURL": "https://wallpaperforu.com/wp-content/uploads/2021/06/Wallpaper-Glitch-Art-Monochrome-Depressing-Dark-Sad-A231440x900.jpg"
+    "imageURL": "https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "artist": "Stormseeker"
   },
   {
-    "imageURL": "https://w.wallhaven.cc/full/45/wallhaven-457vj9.jpg"
+    "imageURL": "https://images.unsplash.com/photo-1542887800-faca0261c9e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=727&q=80",
+    "artist": "I.am_nah"
   },
   {
-    "imageURL": "https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    "imageURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/mater-dolorosa-theodore-gericault.jpg",
+    "artist": "Théodore Géricault"
   },
   {
-    "imageURL": "https://images.unsplash.com/photo-1542887800-faca0261c9e1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=727&q=80"
+    "imageURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/alone-02-am-fineartprints.jpg",
+    "artist": "AM fineartprints"
   }
 ]

@@ -4,6 +4,7 @@ export const QUERY_IMAGES = gql`
   query images {
     images {
       imageURL
+      artist
     }
   }
 `;
@@ -27,6 +28,7 @@ export const QUERY_ALL = gql`
     }
     images {
       imageURL
+      artist
     }
   }
 `;
