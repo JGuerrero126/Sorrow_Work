@@ -16,7 +16,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 const PORT = process.env.PORT || 3001;
 
 const httpLink = createHttpLink({
-  uri: "http://localhost:" + PORT + "/graphql" || "/graphql",
+  uri: "/graphql" || "http://localhost:" + PORT + "/graphql",
 });
 
 const client = new ApolloClient({
